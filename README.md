@@ -1,10 +1,10 @@
-# complete_advanced_flutter
+# Project_Render
 
-A new Flutter application.
+A food service application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project was built when i was taking the course "Flutter advanced course - Clean architecture with MVVM".
 
 A few resources to get you started if this is your first Flutter project:
 
